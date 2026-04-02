@@ -1,0 +1,69 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "threshold": 2.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_imperator"
+        }
+      },
+      {
+        "threshold": 3.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_caesar"
+        }
+      },
+      {
+        "threshold": 4.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_consul"
+        }
+      },
+      {
+        "threshold": 5.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_pretor"
+        }
+      },
+      {
+        "threshold": 6.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_tribun"
+        }
+      },
+      {
+        "threshold": 7.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_centureon"
+        }
+      },
+      {
+        "threshold": 8.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_legioner"
+        }
+      },
+      {
+        "threshold": 9.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate_plebey"
+        }
+      }
+    ]
+  }
+}
