@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/auction_info"
+    "layer0": "minecraft:item/button2"
   }
 }

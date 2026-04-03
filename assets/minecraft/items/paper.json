@@ -63,6 +63,27 @@
           "type": "minecraft:model",
           "model": "minecraft:item/donate_plebey"
         }
+      },
+      {
+        "threshold": 10.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/button1"
+        }
+      },
+      {
+        "threshold": 11.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/button2"
+        }
+      },
+      {
+        "threshold": 12.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/button3"
+        }
       }
     ]
   }
