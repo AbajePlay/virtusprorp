@@ -65,24 +65,24 @@
         }
       },
       {
-        "threshold": 10.0,
+        "threshold": 49.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/button1"
+          "model": "minecraft:item/left"
         }
       },
       {
-        "threshold": 11.0,
+        "threshold": 50.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/button2"
+          "model": "minecraft:item/list_icon"
         }
       },
       {
-        "threshold": 12.0,
+        "threshold": 51.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/button3"
+          "model": "minecraft:item/right"
         }
       }
     ]
