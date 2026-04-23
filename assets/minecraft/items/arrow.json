@@ -168,6 +168,62 @@
           "type": "minecraft:model",
           "model": "minecraft:item/kit_youtuber"
         }
+      },
+      {
+        "threshold": 24.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_donate"
+        }
+      },
+      {
+        "threshold": 25.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_market"
+        }
+      },
+      {
+        "threshold": 26.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_earnings"
+        }
+      },
+      {
+        "threshold": 27.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_quests"
+        }
+      },
+      {
+        "threshold": 28.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_clans"
+        }
+      },
+      {
+        "threshold": 29.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_kits"
+        }
+      },
+      {
+        "threshold": 30.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_shop"
+        }
+      },
+      {
+        "threshold": 31.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/menu_teleports"
+        }
       }
     ]
   }
