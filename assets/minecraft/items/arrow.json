@@ -154,6 +154,20 @@
           "type": "minecraft:model",
           "model": "minecraft:item/upgrade_clan_color"
         }
+      },
+      {
+        "threshold": 22.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/kit_player"
+        }
+      },
+      {
+        "threshold": 23.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/kit_youtuber"
+        }
       }
     ]
   }
